@@ -1,4 +1,5 @@
 # 🛒 Blinkit Sales Data Analysis using Python
+<img width="3500" height="3500" alt="blinkit_logo" src="https://github.com/user-attachments/assets/c924c1f0-7403-4e04-9195-2a397ebc02fc" />
 
 ## 📌 Project Overview
 This project analyzes Blinkit's sales data to uncover insights about product performance, customer behavior, and outlet trends using Python.
